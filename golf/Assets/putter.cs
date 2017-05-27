@@ -15,16 +15,18 @@ public class putter : MonoBehaviour {
 	void Update () {
 
 		if (Input.GetButtonDown ("Fire1")) {
-
 			GetComponent<ConstantForce> ().enabled = true;
+            Debug.Log("Swung");
 
 		}
 
 	}
 
 	void OnCollisionEnter(Collision other) {
+ 
+            Destroy(gameObject);
+            Debug.Log("Destroyed");
 
-		Destroy (gameObject);
 
-	}
+    }
 }
