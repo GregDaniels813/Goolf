@@ -109,7 +109,11 @@ MonoBehaviour:
   m_MinSize: {x: 583, y: 495}
   m_MaxSize: {x: 14004, y: 14045}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 9991
+=======
   controlID: 34350
+>>>>>>> refs/remotes/origin/master
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +137,11 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 495}
   m_MaxSize: {x: 10002, y: 14045}
   vertical: 1
+<<<<<<< HEAD
+  controlID: 9992
+=======
   controlID: 34351
+>>>>>>> refs/remotes/origin/master
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +165,11 @@ MonoBehaviour:
   m_MinSize: {x: 306, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 9993
+=======
   controlID: 34352
+>>>>>>> refs/remotes/origin/master
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -367,9 +379,15 @@ MonoBehaviour:
     height: 614
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: b8a1ffffe4fbffff00000000
+=======
     m_SelectedIDs: 08260000
     m_LastClickedID: 9736
     m_ExpandedIDs: f4f0ffffe4fbffff00000000a2250000b225000008260000
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -419,14 +437,24 @@ MonoBehaviour:
     width: 1038
     height: 614
   m_SceneLighting: 0
+<<<<<<< HEAD
+  lastFramingTime: 1245.062419233251
+=======
   lastFramingTime: 56050.11448444143
+>>>>>>> refs/remotes/origin/master
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
+    m_Target: {x: -0.03999996, y: 0, z: 12.66}
+    speed: 2
+    m_Value: {x: -0.03999996, y: 0, z: 12.66}
+=======
     m_Target: {x: 0, y: 0.199, z: -8.11}
     speed: 2
     m_Value: {x: 0, y: 0.199, z: -8.11}
+>>>>>>> refs/remotes/origin/master
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -449,6 +477,15 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
+    m_Target: {x: -0.078852, y: 0.7414176, z: -0.08850488, w: -0.66056263}
+    speed: 2
+    m_Value: {x: -0.0788483, y: 0.74138284, z: -0.08850074, w: -0.6605317}
+  m_Size:
+    m_Target: 29.280521
+    speed: 2
+    m_Value: 29.280521
+=======
     m_Target: {x: -0.026213814, y: -0.93671715, z: 0.0721301, w: -0.34206504}
     speed: 2
     m_Value: {x: 0.026213814, y: 0.9367172, z: -0.07213011, w: 0.34206507}
@@ -456,6 +493,7 @@ MonoBehaviour:
     m_Target: 22
     speed: 2
     m_Value: 22
+>>>>>>> refs/remotes/origin/master
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -593,9 +631,15 @@ MonoBehaviour:
   m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+    m_SelectedIDs: b4240000
+    m_LastClickedID: 9396
+    m_ExpandedIDs: 00000000b424000000ca9a3bffffff7f
+=======
     m_SelectedIDs: ba240000
     m_LastClickedID: 9402
     m_ExpandedIDs: 00000000ba24000000ca9a3bffffff7f
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -623,7 +667,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000b424000000ca9a3bffffff7f
+=======
     m_ExpandedIDs: 00000000ba24000000ca9a3bffffff7f
+>>>>>>> refs/remotes/origin/master
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
